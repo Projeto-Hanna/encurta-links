@@ -1,4 +1,5 @@
 ## Encurta links - Projeto Hanna
+Status: em desenvolvimento
 
 ### Descrição
 
