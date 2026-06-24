@@ -1,9 +1,7 @@
 ## Encurta links - Projeto Hanna
-Status: em desenvolvimento
-
 ### Descrição
 
-Projeito feito para auxiliar em redirecionamento e encurtamento de links.
+Projeito feito para auxiliar em redirecionamento e encurtamento de links do Projeto Hanna, facilitando a substituição de links voláteis e a abrindo margem para a coleta de métricas.
 
 ### Setup
 
