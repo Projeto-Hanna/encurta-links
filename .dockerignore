@@ -1,0 +1,51 @@
+# Dependency folders
+node_modules/
+jspm_packages/
+web_modules/
+
+# Build and output directories
+dist/
+build/
+coverage/
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# IDEs, AI, and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.gemini/
+.agents/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environmental variables
+.env
+.env.production
+.env.development
+.env.local
+.env.staging
+.env.test
+
+# Tests and documentation
+tests/
+*.md
+
+# Git and Docker metadata
+.git/
+.gitignore
+.dockerignore
