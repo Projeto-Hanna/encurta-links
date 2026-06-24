@@ -9,7 +9,7 @@ Projeito feito para auxiliar em redirecionamento e encurtamento de links do Proj
 $ yarn install
 ```
 
-### Compile and run the project
+### Compile e execute o projeto
 
 ```bash
 # development
@@ -22,7 +22,7 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
-### Run tests
+### Testes
 
 ```bash
 # unit tests
@@ -34,6 +34,11 @@ $ yarn run test:e2e
 # test coverage
 $ yarn run test:cov
 ```
+
+### Como usar
+1. Cadastre os códigos e URLs no banco de dados
+2. Acesse https://links.projetohanna.com/go?to=<código>
+3. Veja o redirecionamento acontecer
 
 ### Autores
 
