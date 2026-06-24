@@ -37,7 +37,7 @@ $ yarn run test:cov
 
 ### Como usar
 1. Cadastre os códigos e URLs no banco de dados
-2. Acesse https://links.projetohanna.com/go?to=<código>
+2. Acesse https://links.projetohanna.com/go?to=<código> ou https://encurta-links-jet.vercel.app/go?to=<código>
 3. Veja o redirecionamento acontecer
 
 ### Autores
